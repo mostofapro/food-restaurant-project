@@ -70,6 +70,7 @@ border-radius: 8px;
 background: rgb(82, 195, 3);
 padding: 14px 21px 14px 21px;
 border: 1px solid rgb(82, 195, 3);
+cursor: pointer;
 }
 .btn_container{
   text-align: center;
